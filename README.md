@@ -42,7 +42,10 @@
 
 ## 📊 GitHub Stats:
 
-<!-- Aqui podes adicionar o GitHub Stats mais tarde -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+</p>
 
 ---
 
